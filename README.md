@@ -35,8 +35,8 @@ Your docker will load php-cli image and execute the 3 month load to your table-i
 SELECT 
       date, 
       location as location_name,
-      1440 - Abs(TIMESTAMP_DIFF(PARSE_TIMESTAMP('%Y-%m-%d %I:%M:%S %p', dawn), PARSE_TIMESTAMP('%Y-%m-%d %I:%M:%S %p', dusk), MINUTE)) as daylight_minutes,
-      Abs(TIMESTAMP_DIFF(PARSE_TIMESTAMP('%Y-%m-%d %I:%M:%S %p', dawn), PARSE_TIMESTAMP('%Y-%m-%d %I:%M:%S %p', dusk), MINUTE)) as darkness_minutes
+      1440 - Abs(TIMESTAMP_DIFF(PARSE_TIMESTAMP('%Y-%m-%d %I:%M:%S %p', dawn), PARSE_TIMESTAMP('%Y-%m-%d %I:%M:%S %p', dusk), MINUTE)) as darkness_minutes,
+      Abs(TIMESTAMP_DIFF(PARSE_TIMESTAMP('%Y-%m-%d %I:%M:%S %p', dawn), PARSE_TIMESTAMP('%Y-%m-%d %I:%M:%S %p', dusk), MINUTE)) as daylight_minutes
 FROM
 (SELECT
   date,

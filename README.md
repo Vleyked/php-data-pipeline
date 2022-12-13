@@ -5,12 +5,17 @@
 - Install docker if you do not have it
 - Create a bigquery dataset with the following schema
           ```
-          location	STRING	NULLABLE			
-          date	    STRING	NULLABLE			
-          dawn	    STRING	NULLABLE			
-          dusk	    STRING	NULLABLE			
-          sunrise	  STRING	NULLABLE			
-          sunset	  STRING	NULLABLE
+          
+      
+| location   |      Type      |
+|----------|:-------------:|
+| location | STRING  | 
+| date | STRING  | 
+| dawn |   STRING    | 
+| dusk | STRING |   
+| sunrise | STRING |  
+| sunset | STRING | 
+
           ```
 - Modify inserRows.php with your project data
   32 'projectId' => 'your-project-id'

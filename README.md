@@ -27,3 +27,20 @@
 - docker build -t php8.2-ubuntu .
 
 Your docker will load php-cli image and execute the 3 month load to your table-id in bigquery
+
+## Query to get the daylight and darkness minutes
+
+```SQL
+SELECT 
+      date, 
+      location as location_name,
+      1440 - Abs(TIMESTAMP_DIFF(PARSE_TIMESTAMP('%Y-%m-%d %I:%M:%S %p', dawn), PARSE_TIMESTAMP('%Y-%m-%d %I:%M:%S %p', dusk), MINUTE)) as daylight_minutes,
+      Abs(TIMESTAMP_DIFF(PARSE_TIMESTAMP('%Y-%m-%d %I:%M:%S %p', dawn), PARSE_TIMESTAMP('%Y-%m-%d %I:%M:%S %p', dusk), MINUTE)) as darkness_minutes
+FROM
+(SELECT
+  date,
+  location,
+  CONCAT(date,' ', dusk) as dusk,
+  CONCAT(date, ' ', dawn) as dawn
+FROM `high-victor-361803.vaimo_victor.astronomical`);
+```

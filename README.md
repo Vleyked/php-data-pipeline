@@ -4,19 +4,21 @@
 - Creake a key file called bigquery.json and move it to src folder.
 - Install docker if you do not have it
 - Create a bigquery dataset with the following schema
-          ```
+
+```
           
       
-| location   |      Type      |
-|----------|:-------------:|
-| location | STRING  | 
-| date | STRING  | 
-| dawn |   STRING    | 
-| dusk | STRING |   
-| sunrise | STRING |  
-| sunset | STRING | 
+| Column   |  Type  |
+|----------|:--------:|
+| location | STRING | 
+| date     | STRING | 
+| dawn     | STRING | 
+| dusk     | STRING |   
+| sunrise  | STRING |  
+| sunset   | STRING | 
 
-          ```
+```
+
 - Modify inserRows.php with your project data
   32 'projectId' => 'your-project-id'
   64 $places = get_places('./credentials.json', 'your-google-sheet-id');

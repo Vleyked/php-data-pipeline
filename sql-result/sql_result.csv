@@ -1,0 +1,373 @@
+date,location_name,darkness_minutes,daylight_minutes
+2020-08-25,"Tallinn, Estonia",460,980
+2020-08-26,"Tallinn, Estonia",466,974
+2020-08-27,"Tallinn, Estonia",472,968
+2020-08-28,"Tallinn, Estonia",477,963
+2020-08-29,"Tallinn, Estonia",483,957
+2020-08-30,"Tallinn, Estonia",489,951
+2020-08-31,"Tallinn, Estonia",495,945
+2020-09-01,"Tallinn, Estonia",501,939
+2020-09-02,"Tallinn, Estonia",506,934
+2020-09-03,"Tallinn, Estonia",512,928
+2020-09-04,"Tallinn, Estonia",518,922
+2020-09-05,"Tallinn, Estonia",523,917
+2020-09-06,"Tallinn, Estonia",529,911
+2020-09-07,"Tallinn, Estonia",535,905
+2020-09-08,"Tallinn, Estonia",540,900
+2020-09-09,"Tallinn, Estonia",546,894
+2020-09-10,"Tallinn, Estonia",552,888
+2020-09-11,"Tallinn, Estonia",557,883
+2020-09-12,"Tallinn, Estonia",563,877
+2020-09-13,"Tallinn, Estonia",568,872
+2020-09-14,"Tallinn, Estonia",574,866
+2020-09-15,"Tallinn, Estonia",579,861
+2020-09-16,"Tallinn, Estonia",585,855
+2020-09-17,"Tallinn, Estonia",590,850
+2020-09-18,"Tallinn, Estonia",596,844
+2020-09-19,"Tallinn, Estonia",601,839
+2020-09-20,"Tallinn, Estonia",607,833
+2020-09-21,"Tallinn, Estonia",612,828
+2020-09-22,"Tallinn, Estonia",618,822
+2020-09-23,"Tallinn, Estonia",623,817
+2020-09-24,"Tallinn, Estonia",628,812
+2020-09-25,"Tallinn, Estonia",634,806
+2020-09-26,"Tallinn, Estonia",639,801
+2020-09-27,"Tallinn, Estonia",644,796
+2020-09-28,"Tallinn, Estonia",650,790
+2020-09-29,"Tallinn, Estonia",655,785
+2020-09-30,"Tallinn, Estonia",660,780
+2020-10-01,"Tallinn, Estonia",666,774
+2020-10-02,"Tallinn, Estonia",671,769
+2020-10-03,"Tallinn, Estonia",676,764
+2020-10-04,"Tallinn, Estonia",681,759
+2020-10-05,"Tallinn, Estonia",687,753
+2020-10-06,"Tallinn, Estonia",692,748
+2020-10-07,"Tallinn, Estonia",697,743
+2020-10-08,"Tallinn, Estonia",702,738
+2020-10-09,"Tallinn, Estonia",707,733
+2020-10-10,"Tallinn, Estonia",713,727
+2020-10-11,"Tallinn, Estonia",718,722
+2020-10-12,"Tallinn, Estonia",723,717
+2020-10-13,"Tallinn, Estonia",728,712
+2020-10-14,"Tallinn, Estonia",733,707
+2020-10-15,"Tallinn, Estonia",738,702
+2020-10-16,"Tallinn, Estonia",743,697
+2020-10-17,"Tallinn, Estonia",748,692
+2020-10-18,"Tallinn, Estonia",753,687
+2020-10-19,"Tallinn, Estonia",758,682
+2020-10-20,"Tallinn, Estonia",763,677
+2020-10-21,"Tallinn, Estonia",768,672
+2020-10-22,"Tallinn, Estonia",773,667
+2020-10-23,"Tallinn, Estonia",778,662
+2020-10-24,"Tallinn, Estonia",783,657
+2020-10-25,"Tallinn, Estonia",788,652
+2020-10-26,"Tallinn, Estonia",792,648
+2020-10-27,"Tallinn, Estonia",797,643
+2020-10-28,"Tallinn, Estonia",802,638
+2020-10-29,"Tallinn, Estonia",807,633
+2020-10-30,"Tallinn, Estonia",811,629
+2020-10-31,"Tallinn, Estonia",816,624
+2020-11-01,"Tallinn, Estonia",821,619
+2020-11-02,"Tallinn, Estonia",825,615
+2020-11-03,"Tallinn, Estonia",830,610
+2020-11-04,"Tallinn, Estonia",834,606
+2020-11-05,"Tallinn, Estonia",839,601
+2020-11-06,"Tallinn, Estonia",843,597
+2020-11-07,"Tallinn, Estonia",848,592
+2020-11-08,"Tallinn, Estonia",852,588
+2020-11-09,"Tallinn, Estonia",856,584
+2020-11-10,"Tallinn, Estonia",861,579
+2020-11-11,"Tallinn, Estonia",865,575
+2020-11-12,"Tallinn, Estonia",869,571
+2020-11-13,"Tallinn, Estonia",873,567
+2020-11-14,"Tallinn, Estonia",877,563
+2020-11-15,"Tallinn, Estonia",881,559
+2020-11-16,"Tallinn, Estonia",885,555
+2020-11-17,"Tallinn, Estonia",889,551
+2020-11-18,"Tallinn, Estonia",893,547
+2020-11-19,"Tallinn, Estonia",897,543
+2020-11-20,"Tallinn, Estonia",900,540
+2020-11-21,"Tallinn, Estonia",904,536
+2020-11-22,"Tallinn, Estonia",908,532
+2020-11-23,"Tallinn, Estonia",911,529
+2020-11-24,"Tallinn, Estonia",914,526
+2020-11-25,"Tallinn, Estonia",918,522
+2020-08-25,"Honolulu, Hawaii",809,631
+2020-08-26,"Honolulu, Hawaii",807,633
+2020-08-27,"Honolulu, Hawaii",806,634
+2020-08-28,"Honolulu, Hawaii",805,635
+2020-08-29,"Honolulu, Hawaii",804,636
+2020-08-30,"Honolulu, Hawaii",803,637
+2020-08-31,"Honolulu, Hawaii",801,639
+2020-09-01,"Honolulu, Hawaii",800,640
+2020-09-02,"Honolulu, Hawaii",799,641
+2020-09-03,"Honolulu, Hawaii",798,642
+2020-09-04,"Honolulu, Hawaii",796,644
+2020-09-05,"Honolulu, Hawaii",795,645
+2020-09-06,"Honolulu, Hawaii",794,646
+2020-09-07,"Honolulu, Hawaii",793,647
+2020-09-08,"Honolulu, Hawaii",792,648
+2020-09-09,"Honolulu, Hawaii",790,650
+2020-09-10,"Honolulu, Hawaii",789,651
+2020-09-11,"Honolulu, Hawaii",788,652
+2020-09-12,"Honolulu, Hawaii",787,653
+2020-09-13,"Honolulu, Hawaii",785,655
+2020-09-14,"Honolulu, Hawaii",784,656
+2020-09-15,"Honolulu, Hawaii",783,657
+2020-09-16,"Honolulu, Hawaii",782,658
+2020-09-17,"Honolulu, Hawaii",780,660
+2020-09-18,"Honolulu, Hawaii",779,661
+2020-09-19,"Honolulu, Hawaii",778,662
+2020-09-20,"Honolulu, Hawaii",777,663
+2020-09-21,"Honolulu, Hawaii",776,664
+2020-09-22,"Honolulu, Hawaii",774,666
+2020-09-23,"Honolulu, Hawaii",773,667
+2020-09-24,"Honolulu, Hawaii",772,668
+2020-09-25,"Honolulu, Hawaii",771,669
+2020-09-26,"Honolulu, Hawaii",769,671
+2020-09-27,"Honolulu, Hawaii",768,672
+2020-09-28,"Honolulu, Hawaii",767,673
+2020-09-29,"Honolulu, Hawaii",766,674
+2020-09-30,"Honolulu, Hawaii",765,675
+2020-10-01,"Honolulu, Hawaii",763,677
+2020-10-02,"Honolulu, Hawaii",762,678
+2020-10-03,"Honolulu, Hawaii",761,679
+2020-10-04,"Honolulu, Hawaii",760,680
+2020-10-05,"Honolulu, Hawaii",759,681
+2020-10-06,"Honolulu, Hawaii",757,683
+2020-10-07,"Honolulu, Hawaii",756,684
+2020-10-08,"Honolulu, Hawaii",755,685
+2020-10-09,"Honolulu, Hawaii",754,686
+2020-10-10,"Honolulu, Hawaii",753,687
+2020-10-11,"Honolulu, Hawaii",752,688
+2020-10-12,"Honolulu, Hawaii",750,690
+2020-10-13,"Honolulu, Hawaii",749,691
+2020-10-14,"Honolulu, Hawaii",748,692
+2020-10-15,"Honolulu, Hawaii",747,693
+2020-10-16,"Honolulu, Hawaii",746,694
+2020-10-17,"Honolulu, Hawaii",745,695
+2020-10-18,"Honolulu, Hawaii",744,696
+2020-10-19,"Honolulu, Hawaii",742,698
+2020-10-20,"Honolulu, Hawaii",741,699
+2020-10-21,"Honolulu, Hawaii",740,700
+2020-10-22,"Honolulu, Hawaii",739,701
+2020-10-23,"Honolulu, Hawaii",738,702
+2020-10-24,"Honolulu, Hawaii",737,703
+2020-10-25,"Honolulu, Hawaii",736,704
+2020-10-26,"Honolulu, Hawaii",735,705
+2020-10-27,"Honolulu, Hawaii",734,706
+2020-10-28,"Honolulu, Hawaii",733,707
+2020-10-29,"Honolulu, Hawaii",732,708
+2020-10-30,"Honolulu, Hawaii",731,709
+2020-10-31,"Honolulu, Hawaii",730,710
+2020-11-01,"Honolulu, Hawaii",729,711
+2020-11-02,"Honolulu, Hawaii",728,712
+2020-11-03,"Honolulu, Hawaii",727,713
+2020-11-04,"Honolulu, Hawaii",726,714
+2020-11-05,"Honolulu, Hawaii",725,715
+2020-11-06,"Honolulu, Hawaii",724,716
+2020-11-07,"Honolulu, Hawaii",723,717
+2020-11-08,"Honolulu, Hawaii",722,718
+2020-11-09,"Honolulu, Hawaii",721,719
+2020-11-10,"Honolulu, Hawaii",720,720
+2020-11-11,"Honolulu, Hawaii",719,721
+2020-11-12,"Honolulu, Hawaii",718,722
+2020-11-13,"Honolulu, Hawaii",717,723
+2020-11-14,"Honolulu, Hawaii",717,723
+2020-11-15,"Honolulu, Hawaii",716,724
+2020-11-16,"Honolulu, Hawaii",715,725
+2020-11-17,"Honolulu, Hawaii",714,726
+2020-11-18,"Honolulu, Hawaii",713,727
+2020-11-19,"Honolulu, Hawaii",713,727
+2020-11-20,"Honolulu, Hawaii",712,728
+2020-11-21,"Honolulu, Hawaii",711,729
+2020-11-22,"Honolulu, Hawaii",710,730
+2020-11-23,"Honolulu, Hawaii",710,730
+2020-11-24,"Honolulu, Hawaii",709,731
+2020-11-25,"Honolulu, Hawaii",708,732
+2020-08-25,"New York, United states",864,576
+2020-08-26,"New York, United states",862,578
+2020-08-27,"New York, United states",859,581
+2020-08-28,"New York, United states",856,584
+2020-08-29,"New York, United states",587,853
+2020-08-30,"New York, United states",590,850
+2020-08-31,"New York, United states",593,847
+2020-09-01,"New York, United states",596,844
+2020-09-02,"New York, United states",598,842
+2020-09-03,"New York, United states",601,839
+2020-09-04,"New York, United states",604,836
+2020-09-05,"New York, United states",606,834
+2020-09-06,"New York, United states",609,831
+2020-09-07,"New York, United states",612,828
+2020-09-08,"New York, United states",615,825
+2020-09-09,"New York, United states",617,823
+2020-09-10,"New York, United states",620,820
+2020-09-11,"New York, United states",623,817
+2020-09-12,"New York, United states",625,815
+2020-09-13,"New York, United states",628,812
+2020-09-14,"New York, United states",631,809
+2020-09-15,"New York, United states",634,806
+2020-09-16,"New York, United states",636,804
+2020-09-17,"New York, United states",639,801
+2020-09-18,"New York, United states",642,798
+2020-09-19,"New York, United states",645,795
+2020-09-20,"New York, United states",647,793
+2020-09-21,"New York, United states",650,790
+2020-09-22,"New York, United states",653,787
+2020-09-23,"New York, United states",655,785
+2020-09-24,"New York, United states",658,782
+2020-09-25,"New York, United states",661,779
+2020-09-26,"New York, United states",664,776
+2020-09-27,"New York, United states",666,774
+2020-09-28,"New York, United states",669,771
+2020-09-29,"New York, United states",672,768
+2020-09-30,"New York, United states",674,766
+2020-10-01,"New York, United states",677,763
+2020-10-02,"New York, United states",680,760
+2020-10-03,"New York, United states",682,758
+2020-10-04,"New York, United states",685,755
+2020-10-05,"New York, United states",688,752
+2020-10-06,"New York, United states",690,750
+2020-10-07,"New York, United states",693,747
+2020-10-08,"New York, United states",695,745
+2020-10-09,"New York, United states",698,742
+2020-10-10,"New York, United states",701,739
+2020-10-11,"New York, United states",703,737
+2020-10-12,"New York, United states",706,734
+2020-10-13,"New York, United states",708,732
+2020-10-14,"New York, United states",711,729
+2020-10-15,"New York, United states",714,726
+2020-10-16,"New York, United states",716,724
+2020-10-17,"New York, United states",719,721
+2020-10-18,"New York, United states",721,719
+2020-10-19,"New York, United states",724,716
+2020-10-20,"New York, United states",726,714
+2020-10-21,"New York, United states",729,711
+2020-10-22,"New York, United states",731,709
+2020-10-23,"New York, United states",734,706
+2020-10-24,"New York, United states",736,704
+2020-10-25,"New York, United states",738,702
+2020-10-26,"New York, United states",741,699
+2020-10-27,"New York, United states",743,697
+2020-10-28,"New York, United states",746,694
+2020-10-29,"New York, United states",748,692
+2020-10-30,"New York, United states",750,690
+2020-10-31,"New York, United states",753,687
+2020-11-01,"New York, United states",755,685
+2020-11-02,"New York, United states",757,683
+2020-11-03,"New York, United states",759,681
+2020-11-04,"New York, United states",762,678
+2020-11-05,"New York, United states",764,676
+2020-11-06,"New York, United states",766,674
+2020-11-07,"New York, United states",768,672
+2020-11-08,"New York, United states",770,670
+2020-11-09,"New York, United states",772,668
+2020-11-10,"New York, United states",774,666
+2020-11-11,"New York, United states",777,663
+2020-11-12,"New York, United states",779,661
+2020-11-13,"New York, United states",781,659
+2020-11-14,"New York, United states",782,658
+2020-11-15,"New York, United states",784,656
+2020-11-16,"New York, United states",786,654
+2020-11-17,"New York, United states",788,652
+2020-11-18,"New York, United states",790,650
+2020-11-19,"New York, United states",792,648
+2020-11-20,"New York, United states",793,647
+2020-11-21,"New York, United states",795,645
+2020-11-22,"New York, United states",797,643
+2020-11-23,"New York, United states",798,642
+2020-11-24,"New York, United states",800,640
+2020-11-25,"New York, United states",802,638
+2020-08-25,"Barcelona, Spain",575,865
+2020-08-26,"Barcelona, Spain",577,863
+2020-08-27,"Barcelona, Spain",580,860
+2020-08-28,"Barcelona, Spain",583,857
+2020-08-29,"Barcelona, Spain",586,854
+2020-08-30,"Barcelona, Spain",588,852
+2020-08-31,"Barcelona, Spain",591,849
+2020-09-01,"Barcelona, Spain",594,846
+2020-09-02,"Barcelona, Spain",597,843
+2020-09-03,"Barcelona, Spain",599,841
+2020-09-04,"Barcelona, Spain",602,838
+2020-09-05,"Barcelona, Spain",605,835
+2020-09-06,"Barcelona, Spain",608,832
+2020-09-07,"Barcelona, Spain",611,829
+2020-09-08,"Barcelona, Spain",613,827
+2020-09-09,"Barcelona, Spain",616,824
+2020-09-10,"Barcelona, Spain",619,821
+2020-09-11,"Barcelona, Spain",622,818
+2020-09-12,"Barcelona, Spain",625,815
+2020-09-13,"Barcelona, Spain",627,813
+2020-09-14,"Barcelona, Spain",630,810
+2020-09-15,"Barcelona, Spain",633,807
+2020-09-16,"Barcelona, Spain",636,804
+2020-09-17,"Barcelona, Spain",639,801
+2020-09-18,"Barcelona, Spain",641,799
+2020-09-19,"Barcelona, Spain",644,796
+2020-09-20,"Barcelona, Spain",647,793
+2020-09-21,"Barcelona, Spain",650,790
+2020-09-22,"Barcelona, Spain",652,788
+2020-09-23,"Barcelona, Spain",655,785
+2020-09-24,"Barcelona, Spain",658,782
+2020-09-25,"Barcelona, Spain",661,779
+2020-09-26,"Barcelona, Spain",664,776
+2020-09-27,"Barcelona, Spain",666,774
+2020-09-28,"Barcelona, Spain",669,771
+2020-09-29,"Barcelona, Spain",672,768
+2020-09-30,"Barcelona, Spain",675,765
+2020-10-01,"Barcelona, Spain",677,763
+2020-10-02,"Barcelona, Spain",680,760
+2020-10-03,"Barcelona, Spain",683,757
+2020-10-04,"Barcelona, Spain",685,755
+2020-10-05,"Barcelona, Spain",688,752
+2020-10-06,"Barcelona, Spain",691,749
+2020-10-07,"Barcelona, Spain",694,746
+2020-10-08,"Barcelona, Spain",696,744
+2020-10-09,"Barcelona, Spain",699,741
+2020-10-10,"Barcelona, Spain",702,738
+2020-10-11,"Barcelona, Spain",704,736
+2020-10-12,"Barcelona, Spain",707,733
+2020-10-13,"Barcelona, Spain",710,730
+2020-10-14,"Barcelona, Spain",712,728
+2020-10-15,"Barcelona, Spain",715,725
+2020-10-16,"Barcelona, Spain",717,723
+2020-10-17,"Barcelona, Spain",720,720
+2020-10-18,"Barcelona, Spain",723,717
+2020-10-19,"Barcelona, Spain",725,715
+2020-10-20,"Barcelona, Spain",728,712
+2020-10-21,"Barcelona, Spain",730,710
+2020-10-22,"Barcelona, Spain",733,707
+2020-10-23,"Barcelona, Spain",735,705
+2020-10-24,"Barcelona, Spain",738,702
+2020-10-25,"Barcelona, Spain",740,700
+2020-10-26,"Barcelona, Spain",743,697
+2020-10-27,"Barcelona, Spain",745,695
+2020-10-28,"Barcelona, Spain",748,692
+2020-10-29,"Barcelona, Spain",750,690
+2020-10-30,"Barcelona, Spain",752,688
+2020-10-31,"Barcelona, Spain",755,685
+2020-11-01,"Barcelona, Spain",757,683
+2020-11-02,"Barcelona, Spain",759,681
+2020-11-03,"Barcelona, Spain",762,678
+2020-11-04,"Barcelona, Spain",764,676
+2020-11-05,"Barcelona, Spain",766,674
+2020-11-06,"Barcelona, Spain",768,672
+2020-11-07,"Barcelona, Spain",771,669
+2020-11-08,"Barcelona, Spain",773,667
+2020-11-09,"Barcelona, Spain",775,665
+2020-11-10,"Barcelona, Spain",777,663
+2020-11-11,"Barcelona, Spain",779,661
+2020-11-12,"Barcelona, Spain",781,659
+2020-11-13,"Barcelona, Spain",783,657
+2020-11-14,"Barcelona, Spain",785,655
+2020-11-15,"Barcelona, Spain",787,653
+2020-11-16,"Barcelona, Spain",789,651
+2020-11-17,"Barcelona, Spain",791,649
+2020-11-18,"Barcelona, Spain",793,647
+2020-11-19,"Barcelona, Spain",795,645
+2020-11-20,"Barcelona, Spain",796,644
+2020-11-21,"Barcelona, Spain",798,642
+2020-11-22,"Barcelona, Spain",800,640
+2020-11-23,"Barcelona, Spain",802,638
+2020-11-24,"Barcelona, Spain",803,637
+2020-11-25,"Barcelona, Spain",805,635

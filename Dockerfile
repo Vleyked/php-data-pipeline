@@ -28,4 +28,4 @@ RUN composer require google/apiclient
 # Install the packages with composer
 RUN composer install
 
-# CMD ["php", "readSheetsData.php"]
+CMD ["php", "insertRows.php"]
